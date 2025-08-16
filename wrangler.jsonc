@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mega-openapi",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mega-openapi-db",
+      "database_id": "bd0cae05-782e-4ed8-9a50-2fece6b20ddf"
+    }
+  ]
+}
